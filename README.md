@@ -31,7 +31,7 @@
 
 <div align="center">
     <h1>Statistics</h1>
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=jogpfls&show_icons=true&theme=holi" width="60%" />
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=jogpfls&show_icons=true&title_color=ED716D&icon_color=EB463C&text_color=F09794&bg_color=FDF6F6&border_color=e4e2e2" width="60%" />
 </div>
 
 <!--
