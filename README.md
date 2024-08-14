@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9DBDB,100:F09794&height=300&section=header&fontColor=FFFFFF&text=Hyerin's%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=;Wellcome+to+my+Github!;Enjoy+the+show!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=F09794" alt="Example Usage - README Typing SVG">
+</p>
 
 <!--
 **jogpfls/jogpfls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
