@@ -49,6 +49,12 @@
     https://hyerin0531.tistory.com
 </div>
 
+<br />
+
+<div align="center" style="margin-top: 30px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9DBDB,100:F09794&height=100&section=footer" />
+</div>
+
 <!--
 **jogpfls/jogpfls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
