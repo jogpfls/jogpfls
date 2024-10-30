@@ -46,7 +46,7 @@
     <h1> 🫶🏻 블로그 🫶🏻</h1>
     - 코딩 문제풀이 -
     <br />
-    https://hyerin0531.tistory.com
+    https://hour2.tistory.com
 </div>
 
 <br />
