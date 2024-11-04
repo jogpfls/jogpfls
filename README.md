@@ -25,9 +25,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=Javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic-square&logo=react&logoColor=61DAFB)
 
-![C++](http://img.shields.io/badge/C++-00599C?style=plastic-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=plastic-square&logo=JAVA&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F9DA8F?style=plastic-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-EC625C?style=plastic-square&logo=c&logoColor=white)
+![C++](http://img.shields.io/badge/C++-00599C?style=plastic-square&logo=c%2B%2B&logoColor=white)
 
 </div>
 
