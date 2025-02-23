@@ -1,8 +1,4 @@
-<div align="center">
-    <h1>🐰 2004/23학번/조혜린 🐰</h1>
-</div>
 
-<br />
 <br />
 
 <p align='center'>
@@ -17,7 +13,7 @@
 <br />
 
 <div align=center>
-    <h1>🫶🏻 Skills 🫶🏻 </h1>
+    <h1> Skills </h1>
 
 ![Html](https://img.shields.io/badge/Html-E34F26?style=plastic-square&logo=html&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-A9D1FB?style=plastic-square&logo=css&logoColor=white)
@@ -36,19 +32,40 @@
 <br />
 
 <div align="center">
-    <h1> 🫶🏻 Statistics 🫶🏻</h1>
+    <h1>Statistics</h1>
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=jogpfls&show_icons=true&title_color=ED716D&icon_color=EB463C&text_color=F09794&bg_color=white&border_color=e4e2e2" width="60%" />
+    <div>
+    <br/>
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=jogpfls" width="42%" height="100%"/>
+</div>
+    <br/>
+<div>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogpfls&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+</div>
 </div>
 
 <br />
 <br />
 
 <div align="center">
-    <h1> 🫶🏻 블로그 🫶🏻</h1>
-    - 코딩 문제풀이 -
+    <h1> SNS </h1>
     <br />
-    https://hour2.tistory.com
+
+<a href="https://hour2.tistory.com" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+    </a>
+
+<a href="https://www.instagram.com/h0ur_2" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+    <a href="mailto:joerin4177@gmail.com" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+            
 </div>
+
+<br />
+<br />
 
 <br />
 
